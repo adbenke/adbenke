@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Alex
 
 <!--
 **adbenke/adbenke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓 I graduated with a Bachelor of Science in Graphic Information Technology, focusing on *Interaction Design*
+🌱 I’m currently learning JavaScript while enhancing my skills in HTML and CSS
+✨ I'm extremely passionate about design and would love to keep practicing my coding skills to make a whole website from scratch one day possibly!
+❤️ My hobbies include reading, dancing, and drawing! I love almost anything that allows me to be creative 🥳
