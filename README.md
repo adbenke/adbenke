@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 I graduated with a Bachelor of Science in Graphic Information Technology, focusing on *Interaction Design*
-🌱 I’m currently learning JavaScript while enhancing my skills in HTML and CSS
-✨ I'm extremely passionate about design and would love to keep practicing my coding skills to make a whole website from scratch one day possibly!
+🎓 I graduated with a Bachelor of Science in Graphic Information Technology, focusing on *Interaction Design* <br>
+🌱 I’m currently learning JavaScript while enhancing my skills in HTML and CSS <br>
+✨ I'm extremely passionate about design and would love to keep practicing my coding skills to make a whole website from scratch one day possibly! <br>
 ❤️ My hobbies include reading, dancing, and drawing! I love almost anything that allows me to be creative 🥳
