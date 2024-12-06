@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 🎓 I graduated with a Bachelor of Science in Graphic Information Technology, focusing on *Interaction Design* <br>
 🌱 I’m currently learning JavaScript while enhancing my skills in HTML and CSS <br>
 ✨ I'm extremely passionate about design and would love to keep practicing my coding skills to make a whole website from scratch one day possibly! <br>
-❤️ My hobbies include reading, dancing, and drawing! I love almost anything that allows me to be creative 🥳
+❤️ My hobbies include reading, dancing, and drawing! I love almost anything that allows me to be creative
+Check out my Behance page for some cool design stuff 🥳🙇‍♀️ [Behance]([https://www.example.com](https://www.behance.net/alexandrabenke1))
+🗣️ Connect with me on LinkedIn as well!! [LinkedIn]([[https://www.example.com](https://www.behance.net/alexandrabenke1)](https://www.linkedin.com/in/alexandra-benke/))
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=adbenke&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=B84925&icon_color=E97424&text_color=F2F2F2&bg_color=0,111111,333333 "my Github Stats")
-<!--
